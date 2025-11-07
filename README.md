@@ -83,7 +83,8 @@ For a complete breakdown of the theoretical derivations and full results, please
 
 I'm happy to hear your feedback or answer any questions about this project!
 
-**Author** Rama Khalil
+**Author** Rama Khalil 
+
 **Email**  rama.khalil.990@gmail.com
 
 If you find any bugs or have suggestions, please feel free to **open an issue** right here on GitHub!
